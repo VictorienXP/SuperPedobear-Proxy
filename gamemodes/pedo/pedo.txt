@@ -1,0 +1,5 @@
+"pedo"
+{
+	"base"		"superpedobear"
+	"title"		"Pedobear"
+}

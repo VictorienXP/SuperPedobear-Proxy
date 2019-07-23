@@ -1,0 +1,14 @@
+{
+	"title"		:	"Super Pedobear Proxy",
+	"type"		:	"ServerContent",
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.git*",
+		"*.fgd",
+		"*.md",
+		"LICENSE"
+	]
+}
