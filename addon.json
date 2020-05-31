@@ -3,12 +3,23 @@
 	"type"		:	"ServerContent",
 	"ignore"	:
 	[
-		"*.psd",
-		"*.vcproj",
 		"*.svn*",
 		"*.git*",
-		"*.fgd",
+		"*.psd",
+		"*.psb",
+		"*.xcf",
+		"*.vcproj",
 		"*.md",
-		"LICENSE"
+		"*.bat",
+		"*.cmd",
+		"*.sh",
+		"*.py*",
+		"*.vmf",
+		"*.gma",
+		"desktop.ini",
+		"Thumbs.db",
+		"CODEOWNERS",
+		"LICENSE",
+		"glualint.json"
 	]
 }
